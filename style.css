@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+#particles-js{
+    background-image: url(image.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
